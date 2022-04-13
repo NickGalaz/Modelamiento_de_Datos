@@ -1,4 +1,4 @@
-# Desafio Opcional: Modelamiento de Datos
+# Desafío Opcional: Modelamiento de Datos
 
 ### Módulo 5
 ### Lenguaje de Consultas a una Base de Datos PostgreSQL
